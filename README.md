@@ -1,2 +1,2 @@
 # hello_world
-this is another repository
+Hi this is Giang. I will be code king.
